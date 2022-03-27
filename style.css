@@ -1,0 +1,115 @@
+.navbar{
+    background-color: #e9ecef;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.nav-scroll-style{
+    background-color: white;
+    border-bottom: 1px solid black;
+    transition: 0.3s all;
+}
+
+section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+#jumbotron {
+    background-color: #e9ecef;
+}
+
+#jumbotron2 {
+    background-color: #fff;
+}
+
+.jumbotron{
+    background-color: transparent;
+}
+
+@media (min-width: 990px) {
+    .image {
+        background-image: url(img/jbobrazok2.png);
+        background-position: 65%;
+        background-repeat: no-repeat; 
+    }
+}
+
+@media (min-width: 1570px) {
+    .image2 {
+        background-image: url(img/2%.png);
+        background-position: 75%;
+        background-repeat: no-repeat; 
+    }
+}
+
+#mail {
+    text-decoration: none;
+    color: white;
+}
+
+#prt {
+    margin-left: 45%;
+}
+
+#carousel {
+    background-color: #34495e;
+}
+
+#carousel .carousel-item {
+    height: 365px;
+}
+
+[data-toggle="collapse"]{ 
+    cursor: pointer;
+}
+
+#footerList {
+    background-color: #929292;
+}
+
+#footerList a{
+    color: #34495e
+}
+
+#footerList h4{
+    padding-bottom: 0.5rem;
+}
+
+#footerList {
+    line-height: 2rem;
+}
+
+#footer {
+    background-color: #e9ecef;
+}
+
+#tbl {
+    min-width: 0;
+    background-color: #fff;
+    border: 0px solid transparent;
+    border-radius: 0px
+    
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6
+}
+
+.TI {
+    height: 20px;
+    width: 18px;
+}
+
+#vk {
+    text-align: center;
+}
+
+#crd {
+    min-width: 0;
+    background-color: #fff;
+    border: 0px solid transparent;
+    border-radius: 0px
+}
+
